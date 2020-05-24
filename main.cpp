@@ -9,6 +9,8 @@
 #include <iostream>
 #include <fstream>
 #include <string>
+#include <stack>
+#include <algorithm>
 
 #define MEMORY_SIZE 100
 
